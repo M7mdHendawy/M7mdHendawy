@@ -1,9 +1,25 @@
-- 👋 Hi, I’m Mohammed Fathi Ahmed A Front End Developer who is passionate about bringing ideas to life through technology,
-and it’s important for me to be a part of a team focused on providing exceptional
-solutions. Bringing a solid foundation in front-end development technology, l am
-organized and can balance multiple tasks and competing priorities.
-- 👀 I’m interested in Front End Developer opportunities 
-- 📫 You Can reach me via my Email : m7mdhendawy@gmail.com
- or LinkedIn :https://www.linkedin.com/in/muhammedhendawy/
-- 💞️ I’m looking to collaborate on talented Developers from the hall world to build amazing apps
+👋 Hi, I’m Mohammed Fathi Ahmed
+Front-End Developer | Passionate About Turning Ideas Into Exceptional Digital Experiences
 
+I’m a Front-End Developer who loves bringing ideas to life through clean code, thoughtful UI/UX, and modern web technologies.
+Being part of a team dedicated to delivering exceptional solutions is what motivates me most.
+I bring a solid foundation in front-end development, strong organization skills, and the ability to manage multiple tasks and priorities effectively.
+
+
+👀 Interests
+
+Front-End Development
+Building responsive, user-friendly web applications
+Collaborating on modern, scalable web projects
+Learning new technologies and improving performance, accessibility, and UI design
+
+
+💼 Looking For
+
+I’m currently open to Front-End Developer opportunities, freelance or full-time.
+I’d also love to collaborate with talented developers from around the world to build amazing applications.
+
+📫 Contact Me
+
+Email: m7mdhendawy@gmail.com
+LinkedIn: https://www.linkedin.com/in/muhammedhendawy/
